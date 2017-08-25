@@ -30,6 +30,12 @@
 /web/bundles/
 /web/uploads/
 
+# vendors
+/vendor
+
+# PhpStorm
+.idea
+
 # PHPUnit
 /app/phpunit.xml
 /phpunit.xml
